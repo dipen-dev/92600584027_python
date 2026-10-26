@@ -1,4 +1,4 @@
-#4. Write a program to demonstrate instance methods class methods and static methods.
+# 4. Write a program to demonstrate instance methods class methods and static methods.
 
 class Student:
 
