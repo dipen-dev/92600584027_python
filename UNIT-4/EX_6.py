@@ -1,4 +1,4 @@
-#6. Write a program to demonstrate method overriding and polymorphism.
+# 6. Write a program to demonstrate method overriding and polymorphism.
 
 class Payment:
     def pay(self, amount):
